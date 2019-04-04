@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnOptions" type="id" />
+    <item name="cardItem" type="id" />
+    <item name="imgStar1" type="id" />
+    <item name="imgStar2" type="id" />
+    <item name="imgStar3" type="id" />
+    <item name="imgStar4" type="id" />
+    <item name="imgStar5" type="id" />
+    <item name="txtTime" type="id" />
+</resources>
